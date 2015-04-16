@@ -1,0 +1,25 @@
+{
+  "name": "redis-aof-to-plain-converter",
+  "version": "0.0.9",
+  "description": "Fast truly async driver for redis",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h0x91b/redis-aof-to-plain-converter.git"
+  },
+  "author": "Arseniy Pavlenko (h0x91b)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h0x91b/redis-aof-to-plain-converter/issues"
+  },
+  "homepage": "https://github.com/h0x91b/redis-aof-to-plain-converter",
+  "dependencies": {
+  }
+}
